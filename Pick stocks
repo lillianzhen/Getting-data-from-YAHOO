@@ -1,0 +1,10 @@
+# write solution here
+from pandas_datareader import data, wb
+import pandas_datareader.data as web
+import datetime
+import matplotlib.pyplot as plt
+import pandas as pd
+from pandas import Series, DataFrame
+%matplotlib inline
+from pandas.tools.plotting import scatter_matrix
+import numpy as np
